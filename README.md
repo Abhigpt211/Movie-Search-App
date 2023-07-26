@@ -11,3 +11,11 @@ A simple movie search application that allows users to search for movies using t
 ## Prerequisites
 
 - Obtain an API key from the OMDB API website (https://www.omdbapi.com/). The API key is required to make requests to the OMDB API.
+
+ ## Error Handling
+If the movie is not found or the user provides invalid input, the application will display a message indicating that the movie was not found.
+
+## Technologies Used
+HTML
+CSS
+JavaScript
