@@ -16,6 +16,6 @@ A simple movie search application that allows users to search for movies using t
 If the movie is not found or the user provides invalid input, the application will display a message indicating that the movie was not found.
 
 ## Technologies Used
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
